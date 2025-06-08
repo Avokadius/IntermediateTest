@@ -1,0 +1,14 @@
+D:\Example\IntermediateTest\IntermediateTest\bin\Debug\net9.0\IntermediateTest.exe
+D:\Example\IntermediateTest\IntermediateTest\bin\Debug\net9.0\IntermediateTest.deps.json
+D:\Example\IntermediateTest\IntermediateTest\bin\Debug\net9.0\IntermediateTest.runtimeconfig.json
+D:\Example\IntermediateTest\IntermediateTest\bin\Debug\net9.0\IntermediateTest.dll
+D:\Example\IntermediateTest\IntermediateTest\bin\Debug\net9.0\IntermediateTest.pdb
+D:\Example\IntermediateTest\IntermediateTest\obj\Debug\net9.0\IntermediateTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Example\IntermediateTest\IntermediateTest\obj\Debug\net9.0\IntermediateTest.AssemblyInfoInputs.cache
+D:\Example\IntermediateTest\IntermediateTest\obj\Debug\net9.0\IntermediateTest.AssemblyInfo.cs
+D:\Example\IntermediateTest\IntermediateTest\obj\Debug\net9.0\IntermediateTest.csproj.CoreCompileInputs.cache
+D:\Example\IntermediateTest\IntermediateTest\obj\Debug\net9.0\IntermediateTest.dll
+D:\Example\IntermediateTest\IntermediateTest\obj\Debug\net9.0\refint\IntermediateTest.dll
+D:\Example\IntermediateTest\IntermediateTest\obj\Debug\net9.0\IntermediateTest.pdb
+D:\Example\IntermediateTest\IntermediateTest\obj\Debug\net9.0\IntermediateTest.genruntimeconfig.cache
+D:\Example\IntermediateTest\IntermediateTest\obj\Debug\net9.0\ref\IntermediateTest.dll

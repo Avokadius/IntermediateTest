@@ -1,0 +1,14 @@
+D:\Example\IntermediateTest\Example3\bin\Debug\net9.0\Example3.exe
+D:\Example\IntermediateTest\Example3\bin\Debug\net9.0\Example3.deps.json
+D:\Example\IntermediateTest\Example3\bin\Debug\net9.0\Example3.runtimeconfig.json
+D:\Example\IntermediateTest\Example3\bin\Debug\net9.0\Example3.dll
+D:\Example\IntermediateTest\Example3\bin\Debug\net9.0\Example3.pdb
+D:\Example\IntermediateTest\Example3\obj\Debug\net9.0\Example3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Example\IntermediateTest\Example3\obj\Debug\net9.0\Example3.AssemblyInfoInputs.cache
+D:\Example\IntermediateTest\Example3\obj\Debug\net9.0\Example3.AssemblyInfo.cs
+D:\Example\IntermediateTest\Example3\obj\Debug\net9.0\Example3.csproj.CoreCompileInputs.cache
+D:\Example\IntermediateTest\Example3\obj\Debug\net9.0\Example3.dll
+D:\Example\IntermediateTest\Example3\obj\Debug\net9.0\refint\Example3.dll
+D:\Example\IntermediateTest\Example3\obj\Debug\net9.0\Example3.pdb
+D:\Example\IntermediateTest\Example3\obj\Debug\net9.0\Example3.genruntimeconfig.cache
+D:\Example\IntermediateTest\Example3\obj\Debug\net9.0\ref\Example3.dll
