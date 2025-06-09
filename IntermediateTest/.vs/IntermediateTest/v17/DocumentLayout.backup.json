@@ -1,38 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Example\\IntermediateTest\\",
+  "WorkspaceRootPath": "D:\\IntermediateTestExample\\IntermediateTest\\IntermediateTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B06B686B-45B5-48C3-A882-55B33E5BAD56}|Example5\\Example5.csproj|d:\\example\\intermediatetest\\example5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06B686B-45B5-48C3-A882-55B33E5BAD56}|Example5\\Example5.csproj|solutionrelative:example5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B06B686B-45B5-48C3-A882-55B33E5BAD56}|Example5\\Example5.csproj|d:\\example\\intermediatetest\\example5\\derivedclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06B686B-45B5-48C3-A882-55B33E5BAD56}|Example5\\Example5.csproj|solutionrelative:example5\\derivedclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B06B686B-45B5-48C3-A882-55B33E5BAD56}|Example5\\Example5.csproj|d:\\example\\intermediatetest\\example5\\derivedclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06B686B-45B5-48C3-A882-55B33E5BAD56}|Example5\\Example5.csproj|solutionrelative:example5\\derivedclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B06B686B-45B5-48C3-A882-55B33E5BAD56}|Example5\\Example5.csproj|d:\\example\\intermediatetest\\example5\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06B686B-45B5-48C3-A882-55B33E5BAD56}|Example5\\Example5.csproj|solutionrelative:example5\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2E338C7-23BF-48A2-BA45-A4DBF24F0A44}|Example4\\Example4.csproj|d:\\example\\intermediatetest\\example4\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2E338C7-23BF-48A2-BA45-A4DBF24F0A44}|Example4\\Example4.csproj|solutionrelative:example4\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9698AA-9DDF-4806-989F-505765C7CD7C}|Example3\\Example3.csproj|d:\\example\\intermediatetest\\example3\\datetimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF9698AA-9DDF-4806-989F-505765C7CD7C}|Example3\\Example3.csproj|d:\\intermediatetestexample\\intermediatetest\\intermediatetest\\example3\\datetimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF9698AA-9DDF-4806-989F-505765C7CD7C}|Example3\\Example3.csproj|solutionrelative:example3\\datetimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2E338C7-23BF-48A2-BA45-A4DBF24F0A44}|Example4\\Example4.csproj|d:\\example\\intermediatetest\\example4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF9698AA-9DDF-4806-989F-505765C7CD7C}|Example3\\Example3.csproj|d:\\intermediatetestexample\\intermediatetest\\intermediatetest\\example3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9698AA-9DDF-4806-989F-505765C7CD7C}|Example3\\Example3.csproj|solutionrelative:example3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E338C7-23BF-48A2-BA45-A4DBF24F0A44}|Example4\\Example4.csproj|d:\\intermediatetestexample\\intermediatetest\\intermediatetest\\example4\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E338C7-23BF-48A2-BA45-A4DBF24F0A44}|Example4\\Example4.csproj|solutionrelative:example4\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E338C7-23BF-48A2-BA45-A4DBF24F0A44}|Example4\\Example4.csproj|d:\\intermediatetestexample\\intermediatetest\\intermediatetest\\example4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2E338C7-23BF-48A2-BA45-A4DBF24F0A44}|Example4\\Example4.csproj|solutionrelative:example4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9698AA-9DDF-4806-989F-505765C7CD7C}|Example3\\Example3.csproj|d:\\example\\intermediatetest\\example3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9698AA-9DDF-4806-989F-505765C7CD7C}|Example3\\Example3.csproj|solutionrelative:example3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B06B686B-45B5-48C3-A882-55B33E5BAD56}|Example5\\Example5.csproj|d:\\intermediatetestexample\\intermediatetest\\intermediatetest\\example5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06B686B-45B5-48C3-A882-55B33E5BAD56}|Example5\\Example5.csproj|solutionrelative:example5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06B686B-45B5-48C3-A882-55B33E5BAD56}|Example5\\Example5.csproj|d:\\intermediatetestexample\\intermediatetest\\intermediatetest\\example5\\example5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B06B686B-45B5-48C3-A882-55B33E5BAD56}|Example5\\Example5.csproj|solutionrelative:example5\\example5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E338C7-23BF-48A2-BA45-A4DBF24F0A44}|Example4\\Example4.csproj|d:\\intermediatetestexample\\intermediatetest\\intermediatetest\\example4\\example4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2E338C7-23BF-48A2-BA45-A4DBF24F0A44}|Example4\\Example4.csproj|solutionrelative:example4\\example4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,109 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DerivedClass2.cs",
-              "DocumentMoniker": "D:\\Example\\IntermediateTest\\Example5\\DerivedClass2.cs",
-              "RelativeDocumentMoniker": "Example5\\DerivedClass2.cs",
-              "ToolTip": "D:\\Example\\IntermediateTest\\Example5\\DerivedClass2.cs",
-              "RelativeToolTip": "Example5\\DerivedClass2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB1AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DateTimer.cs",
+              "DocumentMoniker": "D:\\IntermediateTestExample\\IntermediateTest\\IntermediateTest\\Example3\\DateTimer.cs",
+              "RelativeDocumentMoniker": "Example3\\DateTimer.cs",
+              "ToolTip": "D:\\IntermediateTestExample\\IntermediateTest\\IntermediateTest\\Example3\\DateTimer.cs*",
+              "RelativeToolTip": "Example3\\DateTimer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T21:28:41.324Z",
+              "WhenOpened": "2025-06-09T16:05:16.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IntermediateTestExample\\IntermediateTest\\IntermediateTest\\Example3\\Program.cs",
+              "RelativeDocumentMoniker": "Example3\\Program.cs",
+              "ToolTip": "D:\\IntermediateTestExample\\IntermediateTest\\IntermediateTest\\Example3\\Program.cs",
+              "RelativeToolTip": "Example3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:05:14.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DerivedClass1.cs",
-              "DocumentMoniker": "D:\\Example\\IntermediateTest\\Example5\\DerivedClass1.cs",
-              "RelativeDocumentMoniker": "Example5\\DerivedClass1.cs",
-              "ToolTip": "D:\\Example\\IntermediateTest\\Example5\\DerivedClass1.cs",
-              "RelativeToolTip": "Example5\\DerivedClass1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "MyStack.cs",
+              "DocumentMoniker": "D:\\IntermediateTestExample\\IntermediateTest\\IntermediateTest\\Example4\\MyStack.cs",
+              "RelativeDocumentMoniker": "Example4\\MyStack.cs",
+              "ToolTip": "D:\\IntermediateTestExample\\IntermediateTest\\IntermediateTest\\Example4\\MyStack.cs",
+              "RelativeToolTip": "Example4\\MyStack.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T21:25:31.365Z",
+              "WhenOpened": "2025-06-09T16:05:04.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BaseClass.cs",
-              "DocumentMoniker": "D:\\Example\\IntermediateTest\\Example5\\BaseClass.cs",
-              "RelativeDocumentMoniker": "Example5\\BaseClass.cs",
-              "ToolTip": "D:\\Example\\IntermediateTest\\Example5\\BaseClass.cs",
-              "RelativeToolTip": "Example5\\BaseClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T21:23:01.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Example\\IntermediateTest\\Example5\\Program.cs",
-              "RelativeDocumentMoniker": "Example5\\Program.cs",
-              "ToolTip": "D:\\Example\\IntermediateTest\\Example5\\Program.cs",
-              "RelativeToolTip": "Example5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\IntermediateTestExample\\IntermediateTest\\IntermediateTest\\Example4\\Program.cs",
+              "RelativeDocumentMoniker": "Example4\\Program.cs",
+              "ToolTip": "D:\\IntermediateTestExample\\IntermediateTest\\IntermediateTest\\Example4\\Program.cs",
+              "RelativeToolTip": "Example4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T21:19:48.931Z",
+              "WhenOpened": "2025-06-09T16:05:01.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MyStack.cs",
-              "DocumentMoniker": "D:\\Example\\IntermediateTest\\Example4\\MyStack.cs",
-              "RelativeDocumentMoniker": "Example4\\MyStack.cs",
-              "ToolTip": "D:\\Example\\IntermediateTest\\Example4\\MyStack.cs",
-              "RelativeToolTip": "Example4\\MyStack.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDYAAAAFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IntermediateTestExample\\IntermediateTest\\IntermediateTest\\Example5\\Program.cs",
+              "RelativeDocumentMoniker": "Example5\\Program.cs",
+              "ToolTip": "D:\\IntermediateTestExample\\IntermediateTest\\IntermediateTest\\Example5\\Program.cs",
+              "RelativeToolTip": "Example5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T12:32:06.397Z",
+              "WhenOpened": "2025-06-09T16:04:56.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Example\\IntermediateTest\\Example4\\Program.cs",
-              "RelativeDocumentMoniker": "Example4\\Program.cs",
-              "ToolTip": "D:\\Example\\IntermediateTest\\Example4\\Program.cs",
-              "RelativeToolTip": "Example4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T12:31:28.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DateTimer.cs",
-              "DocumentMoniker": "D:\\Example\\IntermediateTest\\Example3\\DateTimer.cs",
-              "RelativeDocumentMoniker": "Example3\\DateTimer.cs",
-              "ToolTip": "D:\\Example\\IntermediateTest\\Example3\\DateTimer.cs",
-              "RelativeToolTip": "Example3\\DateTimer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T11:55:46.146Z",
+              "Title": "Example4",
+              "DocumentMoniker": "D:\\IntermediateTestExample\\IntermediateTest\\IntermediateTest\\Example4\\Example4.csproj",
+              "RelativeDocumentMoniker": "Example4\\Example4.csproj",
+              "ToolTip": "D:\\IntermediateTestExample\\IntermediateTest\\IntermediateTest\\Example4\\Example4.csproj",
+              "RelativeToolTip": "Example4\\Example4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T16:04:53.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Example\\IntermediateTest\\Example3\\Program.cs",
-              "RelativeDocumentMoniker": "Example3\\Program.cs",
-              "ToolTip": "D:\\Example\\IntermediateTest\\Example3\\Program.cs",
-              "RelativeToolTip": "Example3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T11:45:02.042Z"
+              "DocumentIndex": 5,
+              "Title": "Example5",
+              "DocumentMoniker": "D:\\IntermediateTestExample\\IntermediateTest\\IntermediateTest\\Example5\\Example5.csproj",
+              "RelativeDocumentMoniker": "Example5\\Example5.csproj",
+              "ToolTip": "D:\\IntermediateTestExample\\IntermediateTest\\IntermediateTest\\Example5\\Example5.csproj",
+              "RelativeToolTip": "Example5\\Example5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T16:04:42.085Z",
+              "EditorCaption": ""
             }
           ]
         }
